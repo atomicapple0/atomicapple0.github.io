@@ -1,7 +1,7 @@
 ---
 title: 'Optimizing CUDA Kernels'
 date: 2024-09-04
-# permalink: /posts/2024/09/cuda-kernels/
+permalink: /posts/2024/cuda-kernels/
 ---
 
 Notes from "Professional CUDA C Programming" by John Cheng, Max Grossman, and Ty McKercher. Since this book is old, information is only accurate for Fermi / Kepler generation devices.

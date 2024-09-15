@@ -1,7 +1,7 @@
 ---
 title: 'Coffee Table'
 date: 2024-09-12
-# permalink: /posts/2024/09/cuda-kernels/
+permalink: /posts/2024/coffee-table/
 ---
 
 I recently registered for a woodworking class at a local adult community school located at a high school in south Florida. I had some minimal experience from taking a mini course at CMU but forgot pretty much everything. Nevertheless, Woodworking I was not offered at this time so I registered for Woodworking II. Most of the other students were fairly independent woodworkers and mainly registered for the course to have a woodworking space. As I didn't know anything anymore, the very kind instructor recommended me to make a coffee table. This coffee table is based on Steve Ramsey's "Sonoma Vineyard Coffee Table" guide from his Weekend Woodworker course.

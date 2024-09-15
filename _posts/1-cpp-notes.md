@@ -1,7 +1,7 @@
 ---
 title: 'C++ Notes'
 date: 2024-09-03
-# permalink: /posts/2024/09/cpp-notes/
+permalink: /posts/2024/cpp-notes/
 ---
 
 I have largely evaded formally learning C++ by leveraging my knowledge of C to pattern match on existing C++ codebases, or using Rust in my own green-field projects. Nevertheless, it seems that knowing C++ is pretty important given that everyone still uses it and test on its concepts in interviews. I guess I cannot possibly continue on without knowing what a virtual method call is.
