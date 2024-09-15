@@ -100,6 +100,7 @@ Alternative: Value Numbering Scheme
 - var2value where each value has its own number
 - common subexpression means same value number
 - `r1 + r2 => var2value(r1) + var2value(r2)`
+
 ```
 VALUES : (var, op, var) -> var = {}
 BIN_VALUES : (var, op, var) -> var = {}
@@ -115,9 +116,9 @@ for dst, src1, op, src2 in instrs:
     print(f`{tmp} = {VALUES[src1]} {op} {VALUES[src2]}`)
     print(f`{dst} = {tmp}`)
   VALUES[dst] = tmp
+```
 
 # uhhh im sort of lost, above is wrong
-```
 
 phi functions in SSA
 - appears in llvm
